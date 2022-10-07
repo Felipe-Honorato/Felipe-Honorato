@@ -18,8 +18,6 @@
   <!--<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Honorato&layout=compact&theme=dark"/>-->
 </div>
 
-
-
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
