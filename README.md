@@ -1,4 +1,4 @@
-## Olá, seja bem vindo! 👋
+## Hi👋, I'm Felipe Honorato
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Honorato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
