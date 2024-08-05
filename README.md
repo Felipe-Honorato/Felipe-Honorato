@@ -23,6 +23,9 @@
   <!--<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Honorato&layout=compact&theme=dark"/>-->
 </div>
 
+## ✍️ Random Dev Quote
+[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br)](https://github.com/devhonoratoBR/quotes-readme)
+
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
