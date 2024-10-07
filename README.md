@@ -24,7 +24,7 @@
 </div>
 
 ## ✍️ Random Dev Quote
-[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonoratoBR/quotes-readme)
+[![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonorato/quotes-readme)
 
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
